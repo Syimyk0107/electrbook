@@ -1,1 +1,0 @@
-web: gunicorn booksite.wsgi
